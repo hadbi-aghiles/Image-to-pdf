@@ -36,7 +36,7 @@ You will also need two Python libraries: **Pillow** for image processing and **R
 Clone the repository (or download the source code):
 
 ```bash
-git clone https://github.com/hadbi-aghiles/Image-to-pdf/edit/main/README.md
+git clone https://github.com/hadbi-aghiles/Image-to-pdf/
 ```
 ### Navigate to the project directory:
 ```bash
