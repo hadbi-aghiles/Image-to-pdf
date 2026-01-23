@@ -48,10 +48,11 @@ pip install Pillow reportlab
 ```
 ### Technologies Used
 
-- **Python**
-- **Tkinter** – GUI
-- **Pillow** – Image processing
-- **ReportLab** – PDF creation
+- **[Python](https://www.python.org/)**
+- **[Tkinter](https://docs.python.org/3/library/tkinter.html)** – GUI
+- **[Pillow](https://python-pillow.org/)** – Image processing
+- **[ReportLab](https://www.reportlab.com/opensource/)** – PDF creation
+
 
 ## Author
 **Hadbi Aghiles**
